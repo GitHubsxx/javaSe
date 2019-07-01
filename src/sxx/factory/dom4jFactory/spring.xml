@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- xml格式（类似HTML）：先是根节点，然后是子节点（节点上面可以定义属性，包裹着值）
+<person>
+	<name>张三</name>
+	<sex>男</sex>
+	<age>18</age>
+</person> -->
+<beans>
+	<bean id="sxx" class="sxx.factory.dom4jFactory.Car"></bean>
+</beans>
+
